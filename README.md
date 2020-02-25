@@ -8,4 +8,5 @@ code for CT reconstruction using cp and fbp algorithm.
 - python 2.7
 
 **Reference**
+
 Sidky *et al.*. Convex optimization problem prototyping for image reconstruction in computed tomography with the Chambolle–Pock algorithm. Physics in Medicine & Biology, 2012. 57: p. 3065.
